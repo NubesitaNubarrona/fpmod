@@ -19,7 +19,7 @@ Use the same instructions from the original FPDoom.
 
 Again, use the same instructions from the original FPDoom.
 
-### How to run FPDoom
+### How to run FPMod
 
 Once again, use the same instructions from the original FPDoom.
 

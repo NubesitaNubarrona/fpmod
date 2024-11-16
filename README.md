@@ -8,8 +8,8 @@ Currently, there is nothing on this fork, unfortunately. Work might begin if I h
 
 These are the ports I got in mind for future work:
 
-mekasprd: Master System emulator, based off MEKA
-rott: Rise of the Triad
+mekasprd: Master System emulator, based off MEKA<br>
+rott: Rise of the Triad<br>
 
 ### Installation on SD card
 
